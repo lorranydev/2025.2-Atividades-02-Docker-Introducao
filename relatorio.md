@@ -9,9 +9,12 @@
 **Introdução**: 
 [texto](url)
 
-...
+
+```
 dnf install clear
-...
+
+```
+
 
 **Relato**: 
 
